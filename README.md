@@ -1,7 +1,7 @@
 # TP_StudentCRUD
 -Il fallait choisir la branche "master" pour avoir l'accès au projet !!!
 
--le projet du back-end "projet" réalisé dans netbeans, nommé "projet" est intégré dans l'application mobile !!!
+-le projet du back-end réalisé dans netbeans, nommé "projet" est intégré dans l'application mobile !!!
 
 -Voici une vidéo démonstrative de ce TP:
 
